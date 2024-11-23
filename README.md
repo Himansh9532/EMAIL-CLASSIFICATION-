@@ -120,6 +120,12 @@ Spam messages are a persistent problem in digital communication. This project us
 
 
 ---
+## Visualization
+
+Below is a word cloud visualization of the dataset:
+
+![Word Cloud](images/wordcloud_target1.png)
+
 
 ## Contact
 
